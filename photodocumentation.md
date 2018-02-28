@@ -24,11 +24,11 @@ Parts of te original object that are photographed may include:
 Photo documentation takes place as part of the `ingestfile -a` process [LINK TO INGESTFILE WORKFLOW].  For photo documentation, follow the related ingestfile -a prompts and respond with the following comands:
 
 Enter: Take a photo.  
-Q: Quit ingestfile.  
-F: Finish the photo documentation and finalize the ingestfile -a package.  
+q: Quit ingestfile.  
+f: Finish the photo documentation and finalize the ingestfile -a package.  
 
 *Example, `ingestfile -a` prompt*
-<p align="center"><img src=".jpg" /></p> 
+<p align="center"><img src="photo.jpg" /></p> 
   
 ## Examples
 
